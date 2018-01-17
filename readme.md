@@ -3,12 +3,12 @@
 Inhalation health benchmarks and references.
 
 
-# Change Log :notebook:
+## Change Log :notebook:
 Notable changes to this project.
 
-## 2017-04-01
+### 2017-04-01
 
-### Changes
+#### Changes
 - MPSFs for Lead and Lead compounds updated to align with IRAP modeling results. This corrects for the previous modeling using the default _Henry's Law constant_ assigned to inorganic metals.
 - All inhalation health benchmarks rounded to 2 significant digits
 - All of MDH's HRV and HBV chronic inhalation health benchmarks rounded to 1 significant digit, except for benzene
@@ -19,7 +19,7 @@ Notable changes to this project.
 - Ethanol specific risk values identified in references, rather than on separate rows
 - Chromic acid mists and dissolved Cr(VI) aerosols CAS# changed to _18540-29-9-aer_
 
-### Bug fixes
+#### Bug fixes
 - Benzo(k)fluoranthene CAS# changed to _207-08-9_  
 - Furfural CAS# changed to _98-01-1_  
 - Formic Acid (ethanol facility) CAS# changed to _64-18-6_
