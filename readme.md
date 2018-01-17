@@ -12,10 +12,10 @@ Notable changes to this project.
 - MPSFs for Lead and Lead compounds updated to align with IRAP modeling results. This corrects for the previous modeling using the default _Henry's Law constant_ assigned to inorganic metals.
 - All inhalation health benchmarks rounded to 2 significant digits
 - All of MDH's HRV and HBV chronic inhalation health benchmarks rounded to 1 significant digit, except for benzene
-- Tetrachloroethylene (Perchloroethylene) non-cancer IHB updated from 100 to 15 ug/m3 per MDH guidance dated (July 2014)
-- Napthalene cancer IHB set to 9 ug/m3 per MDH guidance dated (Feb. 2017)
-- Ethylene Oxide cancer IHB set to EPA's IRIS value (Feb. 2017)
-- Trimethylbenzenes non-cancer IHB set to EPA's IRIS value (Sept. 2016)
+- Tetrachloroethylene (Perchloroethylene) non-cancer IHB updated from 100 to 15 ug/m3 per MDH guidance dated July 2014
+- Napthalene cancer IHB set to 9 ug/m3 per MDH guidance dated Feb. 2017
+- Ethylene Oxide cancer IHB set to EPA's IRIS value updated Feb. 2017
+- Trimethylbenzenes non-cancer IHB set to EPA's IRIS value updated Sept. 2016
 - Ethanol specific risk values identified in references, rather than on separate rows
 - Chromic acid mists and dissolved Cr(VI) aerosols CAS# changed to _18540-29-9-aer_
 
