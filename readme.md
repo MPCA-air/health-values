@@ -6,6 +6,13 @@ Inhalation health benchmarks and references.
 ## Change Log :notebook:
 Notable changes to this project.
 
+
+### 2018-02-01
+
+#### Changes
+- Arsine(7784-42-1) cancer IHB removed. Was previously assumed equivalent to Arsenic.
+
+
 ### 2017-04-01
 
 #### Changes
