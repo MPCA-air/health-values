@@ -53,6 +53,7 @@ VARIOUS,Aliphatic Hydrocarbon Streams (Midrange),NA,NA,PPRTV,NA
 108-86-1,Bromobenzene,NA,IRIS,IRIS,NA
 74-97-5,Bromochloromethane,NA,PPRTV,NA,NA
 75-25-2,Bromoform,NA,NA,NA,IRIS
+74-83-9,Bromomethane,NA,NA,HRV,NA
 106-94-5,"Bromopropane, 1-",HBV,HBV,HBV,NA
 106-99-0,"Butadiene, 1,3-",CAL EPA,NA,IRIS,HBV
 71-36-3,Butanol,MDH ethanol specific,NA,MDH ethanol specific,NA
@@ -350,7 +351,7 @@ VARIOUS-NOx,Nitrogen oxides (NOx),HBV,NA,NA,NA
 8001-35-2,Toxaphene (chlorinated camphene),NA,NA,NA,IRIS
 120-82-1,"Trichlorobenzene, 1,2,4-",NA,PPRTV,PPRTV,NA
 79-00-5,"Trichloroethane, 1,1,2-",NA,PPRTV,NA,IRIS
-79-01-6,Trichloroethylene,HRV,NA,MDH,MDH
+79-01-6,Trichloroethylene,RAA,NA,MDH,MDH
 75-69-4,Trichlorofluoromethane (CFC-11),NA,PPRTV,NA,NA
 88-06-2,"Trichlorophenol, 2,4,6-",NA,NA,NA,IRIS
 96-18-4,"Trichloropropane, 1,2,3-",NA,NA,IRIS,NA
