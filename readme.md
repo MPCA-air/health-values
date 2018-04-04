@@ -6,6 +6,11 @@ Inhalation health benchmarks and references.
 ## Change Log :notebook:
 Notable changes to this project.
 
+### 2018-04-04
+
+#### Changes
+- Bromomethane(74-83-9) chronic non-cancer value added from MDH HRV.
+- Trichloroethylene(79-01-6) acute value updated to MDH RAA from 2,000 to 6 ug/m3.
 
 ### 2018-02-01
 
