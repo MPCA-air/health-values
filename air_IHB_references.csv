@@ -350,7 +350,7 @@ VARIOUS-NOx,Nitrogen oxides (NOx),HBV,NA,NA,NA
 8001-35-2,Toxaphene (chlorinated camphene),NA,NA,NA,IRIS
 120-82-1,"Trichlorobenzene, 1,2,4-",NA,PPRTV,PPRTV,NA
 79-00-5,"Trichloroethane, 1,1,2-",NA,PPRTV,NA,IRIS
-79-01-6,Trichloroethylene,RAA,NA,MDH,MDH
+79-01-6,Trichloroethylene,RAA,RAA,MDH,MDH
 75-69-4,Trichlorofluoromethane (CFC-11),NA,PPRTV,NA,NA
 88-06-2,"Trichlorophenol, 2,4,6-",NA,NA,NA,IRIS
 96-18-4,"Trichloropropane, 1,2,3-",NA,NA,IRIS,NA
