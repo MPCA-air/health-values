@@ -6,6 +6,10 @@ Inhalation health benchmarks and references.
 ## Change Log :notebook:
 Notable changes to this project.
 
+
+### 2018-04-04
+- Benzo(a)pyrene(BaP) added inhalation non-cancer RfC of `0.002` from IRIS
+
 ### 2018-04-04
 
 #### Changes
