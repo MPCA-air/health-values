@@ -84,9 +84,9 @@ VARIOUS,Aliphatic Hydrocarbon Streams (Midrange),NA,NA,100,NA
 100-00-5,"Chloronitrobenzene, p-",NA,6,0.6,NA
 76-06-2,Chloropicrin,29,NA,0.4,NA
 126-99-8,Chloroprene,NA,NA,20,0.033
-18540-29-9-aer,Chromic acid mists and dissolved Cr(VI) aerosols,NA,0.02,0.008,8e-4
+18540-29-9,Chromic acid mists and dissolved Cr(VI) aerosols,NA,0.02,0.008,8e-4
 7440-47-3,Chromium,NA,0.02,0.008,8e-4
-18540-29-9,Chromium (Hexavalent) (particulate),NA,1,0.1,8e-4
+18540-29-9-particle,Chromium (Hexavalent) (particulate),NA,1,0.1,8e-4
 0-00-5,Chromium Compounds,NA,0.02,0.008,8e-4
 218-01-9,Chrysene (Benzo(a)phenanthrene),NA,NA,NA,0.056
 8007-45-2,Coal Tar,NA,NA,NA,0.02
