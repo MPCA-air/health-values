@@ -84,9 +84,9 @@ VARIOUS,Aliphatic Hydrocarbon Streams (Midrange),NA,NA,PPRTV,NA
 100-00-5,"Chloronitrobenzene, p-",NA,PPRTV,PPRTV,NA
 76-06-2,Chloropicrin,CAL EPA,NA,CAL EPA,NA
 126-99-8,Chloroprene,NA,NA,IRIS,IRIS
-18540-29-9-aer,Chromic acid mists and dissolved Cr(VI) aerosols,NA,HRV,IRIS,HRV
+18540-29-9,Chromic acid mists and dissolved Cr(VI) aerosols,NA,HRV,IRIS,HRV
 7440-47-3,Chromium,NA,HRV,IRIS,HRV
-18540-29-9,Chromium (Hexavalent) (particulate),NA,HRV,IRIS,HRV
+18540-29-9-particle,Chromium (Hexavalent) (particulate),NA,HRV,IRIS,HRV
 0-00-5,Chromium Compounds,NA,HRV,IRIS,HRV
 218-01-9,Chrysene (Benzo(a)phenanthrene),NA,NA,NA,MDH
 8007-45-2,Coal Tar,NA,NA,NA,HRV
