@@ -6,6 +6,22 @@ Inhalation health benchmarks and references.
 ## Change Log :notebook:
 Notable changes to this project.
 
+### 2019-03-15
+    79-01-6	Trichloroethylene	2	MDH RAA	6	RAA	Acute	Reproductive
+    Multiple	carcinogenic PAHs-relative potency factors stayed the same	6.00E-04	EPA IRIS unit risk	0.0011	Cal EPA unit risk	Chronic	Cancer
+    156-60-5	Dichloroethylene, 1,2-trans-			60	PPRTV	Chronic	Noncancer
+    100-00-5   	Chloronitrobenzene, p-   	2	PPRTV	6	PPRTV	Chronic 	Noncancer
+    142-82-5	Heptane, N	400	PPRTV			Chronic 	Noncancer
+    142-82-5	Heptane, N	4000	PPRTV			Subchronic	Noncancer
+    76-13-1	Trichloro-1,2,2-trifluoroethane, 1,1,2-	5000	PPRTV			Chronic 	Noncancer
+    76-13-1	Trichloro-1,2,2-trifluoroethane, 1,1,2-	50000	PPRTV			Subchronic	Noncancer
+    420-46-2	Trifluoroethane, 1,1,1-	20000	PPRTV			Chronic 	Noncancer
+    420-46-2	Trifluoroethane, 1,1,1-	200000	PPRTV			Subchronic	Noncancer
+    463-58-1	Carbonyl sulfide	660	Cal EPA			Acute	Noncancer
+    101-68-8	Methylene diphenyl diisocyanate (MDI)	12	CAL EPA			Acute	Noncancer
+    584-84-9	Toluene diisocyanate, 2,4-	2	CAL EPA			Acute	Noncancer
+    91-08-7	Toluene-2,6-diisocyanate	2	CAL EPA			Acute	Noncancer
+
 
 ### 2018-19-07
 - Benzo(a)pyrene(BaP) added inhalation non-cancer RfC of `0.002` from IRIS
