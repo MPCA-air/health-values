@@ -51,6 +51,7 @@ VARIOUS,Aliphatic Hydrocarbon Streams (Midrange),NA,NA,100,0.00222
 542-88-1,Bis(chloromethyl)ether,NA,NA,NA,2e-4
 10294-34-5,Boron Trichloride,NA,20,20,NA
 108-86-1,Bromobenzene,NA,200,60,NA
+75-27-4,Bromodichloromethane,NA,NA,NA,0.27
 74-97-5,Bromochloromethane,NA,100,NA,NA
 75-25-2,Bromoform,NA,NA,NA,9.1
 106-94-5,"Bromopropane, 1-",50000,4000,20,NA
@@ -316,7 +317,7 @@ VARIOUS-NOx,Nitrogen oxides (NOx),470,NA,NA,NA
 79-09-4,Propionic Acid,850,NA,70,NA
 128-38-6,Proprionaldehyde,1300,NA,110,NA
 115-07-1,Propylene,NA,NA,3000,NA
-78-87-5,"Propylene dichloride (1,2-Dichloropropane)",NA,10,4,NA
+78-87-5,"Propylene dichloride (1,2-Dichloropropane)",NA,10,4,0.0027
 107-98-2,Propylene Glycol Monomethyl Ether,NA,20000,2000,NA
 75-56-9,Propylene oxide,3100,NA,30,3
 930-55-2,"Pyrrolidine, 1-Nitroso-",NA,NA,NA,0.016
