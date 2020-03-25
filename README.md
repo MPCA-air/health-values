@@ -16,7 +16,7 @@ Inhalation health benchmarks and their references
 1. Update change log
 
 
-## Hierarchy of sources
+# Hierarchy of sources
 
 Benchmarks are selected using the following hierarchy:
 
@@ -42,9 +42,8 @@ Benchmarks are selected using the following hierarchy:
 
 <br>
 
----
 
-## Change Log :notebook:
+# Change Log :notebook:
 
 Notable changes:
 
