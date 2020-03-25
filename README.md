@@ -2,7 +2,7 @@
 
 Inhalation health benchmarks and their references
 
-# To-do
+# To do
 
 1. Add these fields for new pollutants:
     - `Persistent Bioaccumulative Toxicants`	
