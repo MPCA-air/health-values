@@ -1,6 +1,6 @@
 # health-values
 
-Inhalation health benchmarks and their references.
+Inhalation health benchmarks and their references
 
 # To do list
 
@@ -27,7 +27,7 @@ Benchmarks are selected using the following hierarchy:
     - MDH site specific values
 2. [EPA IRIS](https://www.epa.gov/iris)
 3. [Cal EPA OEHHA Reference Exposure Levels](https://oehha.ca.gov/air/general-info/oehha-acute-8-hour-and-chronic-reference-exposure-level-rel-summary)
-4. [ATSDR]()
+4. [CDC ATSDR](https://www.atsdr.cdc.gov/mrls/mrllist.asp)
 5. [EPA PPRTVs](https://www.epa.gov/pprtv/provisional-peer-reviewed-toxicity-values-pprtvs-assessments)
 
 
