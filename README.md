@@ -1,10 +1,39 @@
 # health-values
 
-Inhalation health benchmarks and references.
+Inhalation health benchmarks and their references.
+
+# To do list
+
+1. Add these fields for new pollutants:
+    - `Persistent Bioaccumulative Toxicants`	
+    - `Respiratory Sensitizers`
+    - `Developmental Toxicants`
+1. Check early life adjustment for new pollutants
+1. Check health endpoints for new pollutants
+1. Address MDH Q's
+    - Cancer risk for Formaldehyde and Naphthalene
+1. Address Monika's Q's
+
+
+## Hierarchy of sources
+
+Benchmarks are selected using the following hierarchy:
+
+1. [Minnesota Department of Health](https://www.health.state.mn.us/communities/environment/risk/guidance/air/table.html)
+    - Risk Assessment Advice
+    - Health Based Values
+    - Inhalation toxicity values in the ISV spreadsheet
+    - Health Risk Values
+    - MDH site specific values
+2. [EPA IRIS](https://www.epa.gov/iris)
+3. [Cal EPA OEHHA Reference Exposure Levels](https://oehha.ca.gov/air/general-info/oehha-acute-8-hour-and-chronic-reference-exposure-level-rel-summary)
+4. [ATSDR]()
+5. [EPA PPRTVs](https://www.epa.gov/pprtv/provisional-peer-reviewed-toxicity-values-pprtvs-assessments)
 
 
 ## Change Log :notebook:
-Notable changes to this project.
+
+Notable changes:
 
 ### 2019-03-15
     79-01-6	Trichloroethylene	2	MDH RAA	6	RAA	Acute	Reproductive
@@ -57,4 +86,4 @@ Notable changes to this project.
 - Furfural CAS# changed to _98-01-1_  
 - Formic Acid (ethanol facility) CAS# changed to _64-18-6_
 - Ethylene dibromide (Dibromoethane) changed to _Ethylene dibromide (1,2-Dibromoethane)_
-- Methylene Bromide CAS# 74-95-3 changed to _Dibromomethane (Methylene Bromide) CAS# 74-95-3_
+- Methylene Bromide CAS# 74-95-3 changed to _Dibromomethane (Methylene Bromide)_
