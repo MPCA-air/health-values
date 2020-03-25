@@ -1,6 +1,6 @@
-# 🚑 :hospital: Health values
+# Health values
 
-Inhalation health benchmarks and their references
+🚑 :hospital: Inhalation health benchmarks and their references
 
 # To do
 
