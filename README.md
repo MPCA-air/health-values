@@ -1,6 +1,6 @@
 # Health values
 
-🚑 :hospital: Inhalation health benchmarks and references
+:hospital::mask: Inhalation health benchmarks and references
 
 <div class="well">
     
