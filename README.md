@@ -6,16 +6,16 @@
     
 ## To do
 
-1. Add these fields for new pollutants:
+1. [ ] Add these fields for new pollutants:
     - `Persistent Bioaccumulative Toxicants`	
     - `Respiratory Sensitizers`
     - `Developmental Toxicants`
-1. Check early life adjustment for new pollutants
-1. Check health endpoints for new pollutants
-1. Address MDH Q's
+1. [ ] Check early life adjustment for new pollutants
+1. [ ] Check health endpoints for new pollutants
+1. [ ] Address MDH Q's
     - Cancer risk for Formaldehyde and Naphthalene
-1. Address Monika's Q's
-1. Update change log
+1. [ ] Address Monika's Q's
+1. [ ] Update change log
 
 </div>
 
