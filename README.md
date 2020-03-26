@@ -12,7 +12,7 @@
     - `Developmental Toxicants`
 1. [ ] Check early life adjustment for new pollutants
 1. [ ] Check health endpoints for new pollutants
-1. [ ] Address MDH Q's
+1. [ ] Q's for MDH
     - Cancer risk for Formaldehyde and Naphthalene
 1. [ ] Address Monika's Q's
 1. [ ] Update change log
@@ -35,7 +35,7 @@ Benchmarks are selected using the following hierarchy:
 5. [EPA PPRTVs](https://www.epa.gov/pprtv/provisional-peer-reviewed-toxicity-values-pprtvs-assessments)
 
 
-## :ocean: Downstream tools
+## Downstream tools
 
 1. [Air monitoring data explorer](https://www.pca.state.mn.us/air/air-toxics-data-explorer)
 1. [Air toxics values webpage](https://public.tableau.com/profile/mpca.data.services#!/vizhome/Airtoxicityvalues/Airtoxicityvalues)
