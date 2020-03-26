@@ -1,25 +1,7 @@
 # Health values
 
 :hospital::mask: Inhalation health benchmarks and references
-
-<div class="well">
-    
-## To do
-
-1. [ ] Add these fields for new pollutants:
-    - `Persistent Bioaccumulative Toxicants`	
-    - `Respiratory Sensitizers`
-    - `Developmental Toxicants`
-1. [ ] Check early life adjustment for new pollutants
-1. [ ] Auto-add adjustments to risks in RASS?
-1. [ ] Check health endpoints for new pollutants
-1. [ ] Q's for MDH
-    - Cancer risk for Formaldehyde and Naphthalene
-1. [ ] Address Monika's Q's
-1. [ ] Drop `is pollutant a HAP` column?
-1. [ ] Update change log
-
-</div>
+  
 
 # Hierarchy of sources
 
