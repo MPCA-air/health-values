@@ -32,7 +32,7 @@ Benchmarks are selected using the following hierarchy:
     - Health Risk Values
     - MDH site specific values
 2. [EPA IRIS](https://www.epa.gov/iris)
-3. [Cal EPA OEHHA Reference Exposure Levels](https://oehha.ca.gov/air/general-info/oehha-acute-8-hour-and-chronic-reference-exposure-level-rel-summary)
+3. [Cal EPA OEHHA Reference Exposure Levels](https://oehha.ca.gov/air/general-info/oehha-acute-8-hour-and-chronic-reference-exposure-level-rel-summary) & [PDF Table](https://ww3.arb.ca.gov/toxics/healthval/contable.pdf)
 4. [CDC ATSDR](https://www.atsdr.cdc.gov/mrls/mrllist.asp)
 5. [EPA PPRTVs](https://www.epa.gov/pprtv/provisional-peer-reviewed-toxicity-values-pprtvs-assessments)
 
