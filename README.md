@@ -88,7 +88,7 @@ Notable changes:
 
 #### Bug fixes
 - Benzo(k)fluoranthene CAS# changed to _207-08-9_  
-- Furfural CAS# changed to _98-01-1_  
+- Furfural (ethanol) CAS# changed to _98-01-1_  
 - Formic Acid (ethanol facility) CAS# changed to _64-18-6_
 - Ethylene dibromide (Dibromoethane) changed to _Ethylene dibromide (1,2-Dibromoethane)_
 - Methylene Bromide CAS# 74-95-3 changed to _Dibromomethane (Methylene Bromide)_
