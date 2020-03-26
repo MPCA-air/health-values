@@ -11,6 +11,7 @@
     - `Respiratory Sensitizers`
     - `Developmental Toxicants`
 1. [ ] Check early life adjustment for new pollutants
+1. [ ] Auto-add adjustments to risks in RASS?
 1. [ ] Check health endpoints for new pollutants
 1. [ ] Q's for MDH
     - Cancer risk for Formaldehyde and Naphthalene
