@@ -16,6 +16,7 @@
 1. [ ] Q's for MDH
     - Cancer risk for Formaldehyde and Naphthalene
 1. [ ] Address Monika's Q's
+1. [ ] Drop is `HAP?` column?
 1. [ ] Update change log
 
 </div>
