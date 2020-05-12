@@ -21,7 +21,7 @@ CAS,Pollutant,Tox Value Source,Unit Risk (ug/m3)-1,10-5 Cancer-based Air Conc (u
 67-66-3,Chloroform,IRIS,0.000023,0.434782609,Yes,Updated prior to 2005
 95-83-0,"Chloro-o-phenylenediamine, 4-",CAL EPA,0.0000046,2.173913043,Yes,Toxicity value based on less than a lifetime exposure.
 95-69-2,"Chloro-o-toluidine, p-",CAL EPA,0.000077,0.12987013,Yes,Toxicity value based on less than a lifetime exposure.
-1333-82-0,Chromic acid mists and dissolved Cr(VI) aerosols,0.012,0.000833333,Yes,HRV,EPA determined mutagen
+1333-82-0,Chromic acid mists and dissolved Cr(VI) aerosols,HRV,0.012,0.000833333,Yes,EPA determined mutagen
 18540-29-9,Chromium (Hexavalent),HRV,0.012,0.000833333,Yes,EPA determined mutagen
 7440-47-3,Chromium,HRV,0.012,0.000833333,Yes,"Exposure study was occupational, adults, mutagenic studies inconclusive. (IRIS documentation)"
 18540-29-9-pm,Chromium (VI) particulate,HRV,0.012,0.000833333,Yes,EPA determined mutagen
