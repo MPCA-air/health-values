@@ -24,7 +24,7 @@ CAS,Pollutant,Tox Value Source,Unit Risk (ug/m3)-1,10-5 Cancer-based Air Conc (u
 1333-82-0,Chromic acid mists and dissolved Cr(VI) aerosols,0.012,0.000833333,Yes,HRV,EPA determined mutagen
 18540-29-9,Chromium (Hexavalent),HRV,0.012,0.000833333,Yes,EPA determined mutagen
 7440-47-3,Chromium,HRV,0.012,0.000833333,Yes,"Exposure study was occupational, adults, mutagenic studies inconclusive. (IRIS documentation)"
-18540-29-9-pm,Chromium (Hexavalent) (particulate),HRV,0.012,0.000833333,Yes,EPA determined mutagen
+18540-29-9-pm,Chromium (VI) particulate,HRV,0.012,0.000833333,Yes,EPA determined mutagen
 0-00-5,Chromium Compounds,HRV,0.012,0.000833333,Yes,EPA determined mutagen
 8007-45-2,Coal Tar,HRV,0.00062,0.016129032,Yes,Updated prior to 2008
 0-00-7,Coke Oven Emissions,HRV,0.00062,0.016129032,Yes,Updated prior to 2008
