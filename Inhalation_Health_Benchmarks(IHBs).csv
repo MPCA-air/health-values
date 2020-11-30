@@ -10,7 +10,7 @@ CAS,Pollutant,Acute Reference Conc (ug/m3),Subchronic Reference Conc (ug/m3),Chr
 107-02-8,Acrolein,5,1,0.4,NA,MDH HBV,MDH HRV,MDH HBV,NA,Eyes,Resp,Resp,0,0,0
 79-06-1,Acrylamide,NA,NA,6,0.1,NA,NA,IRIS,IRIS,NA,NA,Neuro,0,0,0
 3688-53-7,"Acrylamide, 2-(2-furyl)-3-(5-nitro-2-furyl)-",NA,NA,NA,0.14,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
-79-10-7,Acrylic acid,6000,3,1,NA,CAL EPA,MDH HRV,IRIS,NA,"Resp , Eyes",Resp,Resp,0,0,0
+79-10-7,Acrylic acid,6000,3,1,NA,CAL EPA,MDH HRV,IRIS,NA,"Resp, Eyes",Resp,Resp,0,0,0
 107-13-1,Acrylonitrile,NA,NA,2,0.1,NA,NA,IRIS,MDH HRV,NA,NA,Resp,0,0,0
 111-69-3,Adiponitrile,NA,60,6,NA,NA,PPRTV,PPRTV,NA,NA,Blood,Blood,0,0,0
 ALDEHYDES,Aldehydes,50,9,0.08,NA,MDH,MDH,CAL EPA,NA,"Resp, Eyes","Eyes, Resp",Resp,0,0,0
@@ -21,7 +21,7 @@ ALIPHATIC-MID,Aliphatic Hydrocarbon Streams (Midrange),NA,100,100,NA,NA,PPRTV,PP
 712-68-5,"Amino-5-(5-nitro-2-furyl)-1,3,4-thiadiazol, 2-",NA,NA,NA,0.0022,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
 6109-97-3,"Amino-9-ethylcarbazolehydrochloride, 3-",NA,NA,NA,0.45,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
 117-79-3,"Aminoanthraquinone, 2-",NA,NA,NA,1.1,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
-7664-41-7,Ammonia,3200,100,80,NA,MDH HRV,PPRTV,MDH HRV,NA,"Resp , Eyes",Resp,Resp,0,0,0
+7664-41-7,Ammonia,3200,100,80,NA,MDH HRV,PPRTV,MDH HRV,NA,"Resp, Eyes",Resp,Resp,0,0,0
 62-53-3,Aniline,NA,NA,1,6.3,NA,NA,IRIS,CAL EPA,NA,NA,Systemic,0,0,0
 191-26-4,Anthanthrene,NA,NA,NA,0.025,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
 7440-36-0,Antimony,NA,NA,0.2,NA,NA,NA,MDH HRV,NA,NA,NA,Resp,1,0,0
@@ -39,7 +39,7 @@ ARSENIC-COMPS,Arsenic Compounds,0.2,NA,0.015,0.002,CAL EPA,NA,CAL EPA,MDH HRV,"R
 199-54-2,Benz[e]aceanthrylene,NA,NA,NA,0.013,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
 202-33-5,Benz[j]aceanthryIene,NA,NA,NA,1.7e-4,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
 211-91-6,Benz[l]aceanthryIene,NA,NA,NA,0.002,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
-71-43-2,Benzene,30,8,3,0.8,MDH HBV-2020,MDH HBV-2020,MDH HBV-2020,MDH HBV-2020,Blood,Blood,Blood,0,0,1
+71-43-2,Benzene,30,8,3,0.8,MDH HBV (2020),MDH HBV (2020),MDH HBV (2020),MDH HBV (2020),Blood,Blood,Blood,0,0,1
 92-87-5,Benzidine,NA,NA,NA,2e-4,NA,NA,NA,MDH HRV,NA,NA,NA,0,0,0
 205-82-3,Benzo(j)fluoranthene,NA,NA,NA,0.033,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
 207-08-9,Benzo(k)fluoranthene,NA,NA,NA,0.33,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
@@ -49,7 +49,7 @@ ARSENIC-COMPS,Arsenic Compounds,0.2,NA,0.015,0.002,CAL EPA,NA,CAL EPA,MDH HRV,"R
 205-12-9,Benzo[c]fluorene,NA,NA,NA,5e-4,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
 191-24-2,"Benzo[g,h,i]perylene",NA,NA,NA,1.1,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
 65-85-0,Benzoic Acid,NA,2,NA,NA,NA,PPRTV,NA,NA,NA,Resp,NA,0,1,0
-100-44-7,Benzyl chloride,240,4,1,0.2,CAL EPA,PPRTV,PPRTV,CAL EPA,"Resp , Eyes",Systemic,Systemic,0,0,0
+100-44-7,Benzyl chloride,240,4,1,0.2,CAL EPA,PPRTV,PPRTV,CAL EPA,"Resp, Eyes",Systemic,Systemic,0,0,0
 7440-41-7,Beryllium,NA,NA,0.02,0.004,NA,NA,IRIS,MDH HRV,NA,NA,"Blood, Resp",0,1,0
 BERYLLIUM-COMPS,Beryllium Compounds,NA,NA,0.007,0.004,NA,NA,CALEPA,MDH HRV(IRIS),NA,NA,"Resp, Blood",0,1,0
 13510-49-1,Beryllium sulfate,NA,NA,0.007,1.2e-5,NA,NA,CALEPA,CALEPA,NA,NA,"Resp, Blood",0,1,0
@@ -67,7 +67,7 @@ BERYLLIUM-COMPS,Beryllium Compounds,NA,NA,0.007,0.004,NA,NA,CALEPA,MDH HRV(IRIS)
 106-94-5,"Bromopropane, 1-",50000,4000,20,NA,MDH HBV,MDH HBV,MDH HBV,NA,Repro,Neuro,Resp,0,0,1
 106-99-0,"Butadiene, 1,3-",660,NA,2,0.2,CAL EPA,NA,IRIS,MDH HBV,Repro,NA,Repro,0,0,1
 78-92-2,"Butyl alcohol, sec-",NA,30000,30000,NA,NA,PPRTV,PPRTV,NA,NA,Repro,Repro,0,0,0
-111-76-2,Butyl Cellosolve (ethylene glycol monobutyl ether),4700,160,1600,NA,CAL EPA,CALEPA (2018),MDH HRV (IRIS 2010),NA,"Resp , Eyes","Resp , Eyes",Blood,0,0,0
+111-76-2,Butyl Cellosolve (ethylene glycol monobutyl ether),4700,160,1600,NA,CAL EPA,CALEPA (2018),MDH HRV (IRIS 2010),NA,"Resp, Eyes","Resp, Eyes",Blood,0,0,0
 25013-16-5,Butylated hydroxyanisole,NA,NA,NA,180,NA,NA,NA,CAL EPA,NA,NA,NA,0,1,1
 3068-88-0,"Butyrolactone, beta-",NA,NA,NA,0.034,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
 7440-43-9,Cadmium,NA,NA,0.02,0.006,NA,NA,CAL EPA,MDH HRV,NA,NA,"Kidney, Resp",0,0,0
@@ -97,7 +97,7 @@ CADMIUM-COMPS,Cadmium Compounds,NA,NA,0.02,0.006,NA,NA,CAL EPA,MDH HRV,NA,NA,"Ki
 107-30-2,Chloromethyl Methyl Ether,NA,NA,NA,0.014,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
 88-73-3,"Chloronitrobenzene, o-",NA,0.1,NA,NA,NA,PPRTV,NA,NA,NA,Resp,NA,0,1,0
 100-00-5,"Chloronitrobenzene, p-",NA,6,2,NA,NA,PPRTV,PPRTV,NA,NA,"Liver, Blood",Blood,0,0,0
-76-06-2,Chloropicrin,29,NA,0.4,NA,CAL EPA,NA,CAL EPA,NA,"Resp , Eyes",NA,Resp,0,0,0
+76-06-2,Chloropicrin,29,NA,0.4,NA,CAL EPA,NA,CAL EPA,NA,"Resp, Eyes",NA,Resp,0,0,0
 126-99-8,Chloroprene,NA,NA,20,0.033,NA,NA,IRIS,IRIS,NA,NA,"Resp, Blood",0,0,0
 1333-82-0,Chromic acid mists and dissolved Cr(VI) aerosols,NA,0.02,0.008,8e-4,NA,MDH HRV,IRIS,MDH HRV,NA,Resp,Resp,1,1,1
 7440-47-3,Chromium,NA,0.02,0.008,8e-4,NA,MDH HRV,IRIS,MDH HRV,NA,Resp,Resp,1,1,0
@@ -168,7 +168,7 @@ CYANIDE-COMPS,Cyanide Compounds,700,NA,3,NA,MDH HRV,NA,MDH HRV,NA,Neuro,NA,"Neur
 121-14-2,"Dinitrotoluene, 2,4-",NA,NA,NA,0.11,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
 123-91-1,"Dioxane, 1,4- (1,4-Diethylene dioxide)",3000,720,30,2,MDH HRV,ATSDR,IRIS,IRIS,"Eyes , Resp",Resp,"Digest, Kidney, Cardio",0,0,0
 122-66-7,"Diphenylhydrazine, 1,2-",NA,NA,NA,0.045,NA,NA,NA,IRIS,NA,NA,NA,0,0,0
-106-89-8,"Epichlorohydrin (l-Chloro-2,3-epoxypropane)",1300,10,1,8,CAL EPA,PPRTV,IRIS,MDH HRV,"Resp , Eyes",Resp,Resp,0,0,0
+106-89-8,"Epichlorohydrin (l-Chloro-2,3-epoxypropane)",1300,10,1,8,CAL EPA,PPRTV,IRIS,MDH HRV,"Resp, Eyes",Resp,Resp,0,0,0
 106-88-7,"Epoxybutane, 1,2-",NA,NA,20,NA,NA,NA,MDH HRV,NA,NA,NA,Resp,0,0,0
 110-80-5,"Ethoxyethanol, 2- (ethylene glycol monoethyl ether)",400,60,200,NA,MDH HRV,MDH HRV,IRIS,NA,Repro,"Repro, Blood",Repro,0,0,1
 141-78-6,Ethyl acetate,NA,700,70,NA,NA,PPRTV,PPRTV,NA,NA,Systemic,Systemic,0,0,0
@@ -219,14 +219,14 @@ FLUORIDES,Fluorides (except hydrogen fluoride),NA,NA,13,NA,NA,NA,CAL EPA,NA,NA,N
 591-78-6,Hexanone-2,NA,NA,30,NA,NA,NA,IRIS,NA,NA,NA,Neuro,0,0,0
 302-01-2,Hydrazine,NA,0.09,0.2,0.002,NA,PPRTV,CAL EPA,MDH HRV,NA,Blood,"Digest, Repro",0,0,0
 10034-93-2,Hydrazine sulfate,NA,NA,NA,0.002,NA,NA,NA,MDH HRV,NA,NA,NA,0,0,0
-7647-01-0,Hydrochloric acid (hydrogen chloride),2700,NA,20,NA,MDH HRV,NA,MDH HRV,NA,"Resp , Eyes",NA,Resp,0,0,0
+7647-01-0,Hydrochloric acid (hydrogen chloride),2700,NA,20,NA,MDH HRV,NA,MDH HRV,NA,"Resp, Eyes",NA,Resp,0,0,0
 74-90-8,Hydrogen cyanide,700,NA,0.8,NA,MDH HRV,NA,MDH,NA,Neuro,NA,"Neuro, Repro",0,0,0
 7664-39-3,Hydrogen fluoride (Hydrofluoric acid),240,NA,14,NA,MDH HRV,NA,CAL EPA,NA,Resp,NA,"Bone/Teeth, Resp",0,0,0
-7783-07-5,Hydrogen selenide,5,NA,NA,NA,CAL EPA,NA,NA,NA,"Resp , Eyes",NA,NA,0,0,0
+7783-07-5,Hydrogen selenide,5,NA,NA,NA,CAL EPA,NA,NA,NA,"Resp, Eyes",NA,NA,0,0,0
 7783-06-4,Hydrogen sulfide,42,10,2,NA,CAL EPA,MDH HRV,IRIS,NA,"Neuro, Resp",Resp,Resp,0,0,0
 193-39-5,"Indeno(1,2,3-cd)pyrene",NA,NA,NA,0.14,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
 78-59-1,Isophorone,NA,NA,2000,NA,NA,NA,CAL EPA,NA,NA,NA,"Kidney, Digest, Repro",0,0,0
-67-63-0,Isopropyl alcohol,3200,7000,200,NA,CAL EPA,PPRTV,MDH,NA,"Resp , Eyes",Neuro,"Repro, Kidney",0,0,0
+67-63-0,Isopropyl alcohol,3200,7000,200,NA,CAL EPA,PPRTV,MDH,NA,"Resp, Eyes",Neuro,"Repro, Kidney",0,0,0
 7439-92-1,Lead,NA,0.15,0.15,0.83,NA,NAAQS,NAAQS,CAL EPA,NA,"Repro, Cardio, Neuro","Repro, Neuro, Cardio",1,0,0
 7758-97-6,Lead Chromate,NA,0.02,0.2,6.7e-5,NA,MDH HRV,CAL EPA,CAL EPA,NA,Resp,Resp,0,0,0
 LEAD-COMPS,Lead Compounds,NA,0.15,0.15,0.83,NA,NAAQS,NAAQS,CAL EPA,NA,"Repro, Cardio, Neuro","Repro, Neuro, Cardio",1,0,0
@@ -243,7 +243,7 @@ MERCURY-COMPS,Mercury Compounds,0.6,NA,0.3,NA,CAL EPA,NA,IRIS,NA,"Repro , Neuro"
 110-49-6,Methyl Cellosolve Acetate,NA,60,90,NA,NA,PPRTV,CAL EPA,NA,NA,Repro,Repro,0,0,0
 74-87-3,Methyl chloride (Chloromethane),1000,3000,90,NA,ATSDR,PPRTV,IRIS,NA,Neuro,Systemic,Neuro,0,0,0
 71-55-6,"Methyl chloroform (1,1,1-Trichloroethane)",68000,5000,5000,NA,MDH,IRIS,IRIS,NA,Neuro,Liver,Liver,0,0,0
-78-93-3,Methyl ethyl ketone (2-Butanone),10000,NA,5000,NA,MDH HRV,NA,IRIS,NA,"Resp , Eyes",NA,Repro,0,0,0
+78-93-3,Methyl ethyl ketone (2-Butanone),10000,NA,5000,NA,MDH HRV,NA,IRIS,NA,"Resp, Eyes",NA,Repro,0,0,0
 60-34-4,Methyl Hydrazine,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0
 108-10-1,Methyl isobutyl ketone (Hexone),NA,NA,3000,NA,NA,NA,IRIS,NA,NA,NA,Repro,0,0,0
 624-83-9,Methyl isocyanate,NA,NA,1,NA,NA,NA,CAL EPA,NA,NA,NA,"Repro, Resp",0,0,0
@@ -291,7 +291,7 @@ NICKEL-COMPS,Nickel Compounds,0.2,NA,0.014,0.02,MDH HRV (CALEPA),NA,CAL EPA,MDH 
 156-10-5,"Nitrosodiphenylamine, p-",NA,NA,NA,1.6,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
 3268-87-9,"Octachlorodibenzo-p-dioxin, 1,2,3,4,6,7,8,9-",NA,NA,0.13,8.3e-5,NA,NA,MPCA,MDH RAA,NA,NA,"Liver, Repro, Resp, Blood",1,0,0
 39001-02-0,"Octachlorodibenzofuran, 1,2,3,4,6,7,8,9-",NA,NA,0.13,8.3e-5,NA,NA,MPCA,MDH RAA,NA,NA,"Liver, Repro, Resp, Blood",1,0,0
-10028-15-6,Ozone,180,NA,NA,NA,CAL EPA,NA,NA,NA,"Resp , Eyes",NA,NA,1,0,0
+10028-15-6,Ozone,180,NA,NA,NA,CAL EPA,NA,NA,NA,"Resp, Eyes",NA,NA,1,0,0
 74472-37-0,"PCB 114 (2,3,4,4,5 Pentachlorobiphenyl)",NA,NA,1.3,5.3e-4,NA,NA,CAL EPA,CALEPA,NA,NA,"Liver, Repro, Resp, Blood",1,0,0
 31508-00-6,"PCB 118 (2,3,4,4,5 Pentachlorobiphenyl)",NA,NA,1.3,0.0026,NA,NA,CAL EPA,CALEPA,NA,NA,"Liver, Repro, Resp, Blood",1,0,0
 65510-44-3,"PCB 123 (2,3,4,4,5 Pentachlorobiphenyl)",NA,NA,1.3,0.0026,NA,NA,CAL EPA,CALEPA,NA,NA,"Liver, Repro, Resp, Blood",1,0,0
@@ -316,7 +316,7 @@ ALIPHATIC-C9-C18,"Petroleum Hydrocarbons, Aliphatic Medium (C9 - C18)",NA,100,10
 AROMATIC-C6-C8,"Petroleum Hydrocarbons, Aromatic Low (C6 - C8; EC6-EC8)",NA,80,30,1.3,NA,PPRTV,PPRTV,MDH HRV,NA,Blood,Blood,0,0,0
 AROMATIC-C9-C16,"Petroleum Hydrocarbons, Aromatic Medium (C9 - C16; EC9-EC21)",NA,1000,3,NA,NA,PPRTV,PPRTV,NA,NA,Repro,Resp,0,0,0
 85-01-8,Phenanthrene,NA,NA,NA,NA,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
-108-95-2,Phenol,5800,NA,200,NA,MDH HRV (CALEPA),NA,CAL EPA,NA,"Resp , Eyes",NA,"Digest, Cardio, Kidney",0,0,0
+108-95-2,Phenol,5800,NA,200,NA,MDH HRV (CALEPA),NA,CAL EPA,NA,"Resp, Eyes",NA,"Digest, Cardio, Kidney",0,0,0
 75-44-5,Phosgene,4,NA,0.3,NA,MDH HRV (CALEPA),NA,IRIS,NA,Resp,NA,Resp,0,0,0
 7803-51-2,Phosphine,NA,3,0.3,NA,NA,MDH HRV (IRIS),IRIS,NA,NA,Systemic,Systemic,0,0,0
 7664-38-2,Phosphoric acid,NA,NA,10,NA,NA,NA,IRIS,NA,NA,NA,Resp,0,0,0
@@ -336,15 +336,15 @@ AROMATIC-C9-C16,"Petroleum Hydrocarbons, Aromatic Medium (C9 - C16; EC9-EC21)",N
 115-07-1,Propylene,NA,NA,3000,NA,NA,NA,CAL EPA,NA,NA,NA,Resp,0,0,0
 78-87-5,"Propylene dichloride (1,2-Dichloropropane)",230,10,4,2.7,ATSDR,MDH HRV (IRIS),IRIS,PPRTV,Resp,Resp,Resp,0,0,0
 107-98-2,Propylene Glycol Monomethyl Ether,NA,20000,2000,NA,NA,MDH HRV (CALEPA),IRIS,NA,NA,Neuro,Neuro,0,0,0
-75-56-9,Propylene oxide,3100,NA,30,3,CAL EPA,NA,IRIS,MDH HRV (IRIS),"Resp , Repro , Eyes",NA,Resp,0,0,1
+75-56-9,Propylene oxide,3100,NA,30,3,CAL EPA,NA,IRIS,MDH HRV (IRIS),"Resp, Repro , Eyes",NA,Resp,0,0,1
 930-55-2,"Pyrrolidine, 1-Nitroso-",NA,NA,NA,0.016,NA,NA,NA,IRIS,NA,NA,NA,0,0,0
 7782-49-2,Selenium,NA,NA,20,NA,NA,NA,CAL EPA,NA,NA,NA,"Digest, Cardio, Neuro",0,0,0
 0-01-9,Selenium Compounds,NA,NA,20,NA,NA,NA,CAL EPA,NA,NA,NA,"Digest, Cardio, Neuro",0,0,0
 7631-86-9,"Silica (crystalline, respirable, PM4)",NA,NA,3,NA,NA,NA,MDH HBV,NA,NA,NA,Resp,0,0,0
-1310-73-2,Sodium hydroxide,8,NA,NA,NA,MDH HRV (CALEPA),NA,NA,NA,"Resp , Eyes , Skin",NA,NA,0,0,0
+1310-73-2,Sodium hydroxide,8,NA,NA,NA,MDH HRV (CALEPA),NA,NA,NA,"Resp, Eyes , Skin",NA,NA,0,0,0
 10588-01-9,Sodium Dichromate,NA,0.02,0.2,6.7e-5,NA,MDH HRV,CAL EPA,CAL EPA,NA,Resp,Resp,0,1,0
 7789-06-2,Strontium chromate,NA,0.02,0.2,6.7e-5,NA,MDH HRV,CAL EPA,CAL EPA,NA,Resp,Resp,0,0,0
-100-42-5,Styrene,21000,NA,900,NA,MDH HRV (CALEPA),NA,MDH HRV (CALEPA),NA,"Resp , Eyes",NA,Neuro,0,0,0
+100-42-5,Styrene,21000,NA,900,NA,MDH HRV (CALEPA),NA,MDH HRV (CALEPA),NA,"Resp, Eyes",NA,Neuro,0,0,0
 96-09-3,Styrene oxide,NA,NA,NA,0.22,NA,NA,NA,CALEPA,NA,NA,NA,0,1,0
 14808-79-8,Sulfates,120,NA,NA,NA,CAL EPA,NA,NA,NA,Resp,NA,NA,0,0,0
 126-33-0,Sulfolane,NA,20,NA,NA,NA,PPRTV,NA,NA,NA,"Resp, Neuro",NA,0,0,0
@@ -359,12 +359,12 @@ AROMATIC-C9-C16,"Petroleum Hydrocarbons, Aromatic Medium (C9 - C16; EC9-EC21)",N
 00-08-6,"Tetrachlorodibenzofurans, All Isomers",NA,NA,4e-4,2.5e-7,NA,NA,MPCA,MDH RAA,NA,NA,"Liver, Repro, Resp, Blood",1,0,0
 630-20-6,"Tetrachloroethane, 1,1,1,2-",NA,NA,NA,1.4,NA,NA,NA,IRIS,NA,NA,NA,0,0,0
 79-34-5,"Tetrachloroethane, 1,1,2,2-",NA,NA,NA,0.17,NA,NA,NA,CALEPA,NA,NA,NA,0,0,0
-127-18-4,Tetrachloroethylene (Perchloroethylene),20000,41,15,2,MDH HRV (CALEPA),ATSDR,MDH RAA,MDH RAA,"Resp , Neuro , Eyes",Neuro,Neuro,0,0,0
+127-18-4,Tetrachloroethylene (Perchloroethylene),20000,41,15,2,MDH HRV (CALEPA),ATSDR,MDH RAA,MDH RAA,"Resp, Neuro , Eyes",Neuro,Neuro,0,0,0
 811-97-2,"Tetrafluoroethane, 1,1,1,2-",NA,NA,80000,NA,NA,NA,IRIS,NA,NA,NA,Repro,0,0,0
 109-99-9,Tetrahydrofuran,NA,NA,2000,NA,NA,NA,IRIS,NA,NA,NA,"Liver, Neuro",0,0,0
 62-55-5,Thioacetamide,NA,NA,NA,0.0059,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
 62-56-6,Thiourea,NA,NA,NA,0.48,NA,NA,NA,CALEPA,NA,NA,NA,0,1,1
-108-88-3,Toluene,37000,5000,4000,NA,MDH HRV (CALEPA),PPRTV,MDH ISV,NA,"Resp , Neuro , Eyes",Systemic,"Neuro, Resp",0,0,0
+108-88-3,Toluene,37000,5000,4000,NA,MDH HRV (CALEPA),PPRTV,MDH ISV,NA,"Resp, Neuro , Eyes",Systemic,"Neuro, Resp",0,0,0
 584-84-9,"Toluene-2,4-diisocyanate",2,NA,0.008,0.91,CAL EPA,NA,CAL EPA,CAL EPA,Resp,NA,Resp,0,0,0
 91-08-7,"Toluene-2,6-diisocyanate",2,NA,0.008,0.91,CAL EPA,NA,CAL EPA,CAL EPA,Resp,NA,Resp,0,0,0
 95-80-7,"Toluene diamine, 2,4-",NA,NA,NA,0.0091,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
@@ -391,9 +391,9 @@ URANIUM-SOLUBLE,Uranium (Soluble Salts),NA,0.1,0.04,NA,NA,ATSDR,ATSDR,NA,NA,Kidn
 1314-62-1,"Vanadium Pentoxide, (V2O5)",30,0.1,0.007,0.0012,MDH HRV (CALEPA),PPRTV,PPRTV,PPRTV,Resp,Resp,Resp,0,0,0
 108-05-4,Vinyl acetate,NA,35,200,NA,NA,ATSDR,MDH HRV (IRIS),NA,NA,Resp,Resp,0,0,0
 593-60-2,Vinyl bromide,NA,NA,3,NA,NA,NA,IRIS,NA,NA,NA,Liver,0,0,0
-75-01-4,Vinyl chloride,180000,77,100,1,CAL EPA,ATSDR,IRIS,MDH HRV,"Resp , Neuro , Eyes",Liver,Liver,0,0,0
-1330-20-7,Xylenes,22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp , Neuro , Eyes",Neuro,"Neuro, Resp",0,0,0
-108-38-3,"Xylenes, m-",22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp , Neuro , Eyes",Neuro,"Neuro, Resp",0,0,0
-95-47-6,"Xylenes, o-",22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp , Neuro , Eyes",Neuro,"Neuro, Resp",0,0,0
-106-42-3,"Xylenes, p-",22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp , Eyes , Neuro",Neuro,"Neuro, Resp",0,0,0
+75-01-4,Vinyl chloride,180000,77,100,1,CAL EPA,ATSDR,IRIS,MDH HRV,"Resp, Neuro , Eyes",Liver,Liver,0,0,0
+1330-20-7,Xylenes,22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp, Neuro , Eyes",Neuro,"Neuro, Resp",0,0,0
+108-38-3,"Xylenes, m-",22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp, Neuro , Eyes",Neuro,"Neuro, Resp",0,0,0
+95-47-6,"Xylenes, o-",22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp, Neuro , Eyes",Neuro,"Neuro, Resp",0,0,0
+106-42-3,"Xylenes, p-",22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp, Eyes , Neuro",Neuro,"Neuro, Resp",0,0,0
 13530-65-9,Zinc chromate,NA,0.02,0.008,8e-4,NA,MDH HRV,IRIS,MDH HRV,NA,Resp,Resp,1,1,0
