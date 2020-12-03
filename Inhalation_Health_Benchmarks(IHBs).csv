@@ -120,8 +120,8 @@ COPPER-COMPS,Copper Compounds,100,NA,NA,NA,CAL EPA,NA,NA,NA,Resp,NA,NA,0,0,0
 1319-77-3,Cresols/Cresylic acid (isomers and mixture),NA,NA,600,NA,NA,NA,CAL EPA,NA,NA,NA,Neuro,0,0,0
 98-82-8,Cumene,NA,4000,400,NA,NA,MDH HRV,IRIS,NA,NA,"Kidney, Repro",Kidney,0,0,0
 135-20-6,Cupferron,NA,NA,NA,0.16,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
-57-12-5,"Cyanide (Cyanide ion, Inorganic cyanides, Isocyanide)",700,NA,3,NA,MDH HRV,NA,MDH HRV,NA,Neuro,NA,"Neuro, Repro",0,0,0
-CYANIDE-COMPS,Cyanide Compounds,700,NA,3,NA,MDH HRV,NA,MDH HRV,NA,Neuro,NA,"Neuro, Repro",0,0,0
+57-12-5,"Cyanide (Cyanide ion, Inorganic cyanides, Isocyanide)",700,NA,0.8,NA,MDH HRV,NA,MDH HRV (IRIS 2010),NA,Neuro,NA,"Neuro, Repro",0,0,0
+CYANIDE-COMPS,Cyanide Compounds,700,NA,0.8,NA,MDH HRV,NA,MDH HRV (IRIS 2010),NA,Neuro,NA,"Neuro, Repro",0,0,0
 110-82-7,Cyclohexane,NA,18000,6000,NA,NA,PPRTV,IRIS,NA,NA,Repro,Repro,0,0,0
 108-94-1,Cyclohexanone,NA,7000,700,NA,NA,PPRTV,PPRTV,NA,NA,Systemic,Systemic,0,0,1
 27208-37-3,"Cyclopenta[c,d]pyrene",NA,NA,NA,0.025,NA,NA,NA,MDH RAA,NA,NA,NA,1,0,0
