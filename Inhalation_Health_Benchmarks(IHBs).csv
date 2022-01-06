@@ -391,7 +391,7 @@ URANIUM-SOLUBLE,Uranium (Soluble Salts),NA,0.1,0.04,NA,NA,ATSDR,ATSDR,NA,NA,Kidn
 1314-62-1,"Vanadium Pentoxide, (V2O5)",30,0.1,0.007,0.0012,MDH HRV (CALEPA),PPRTV,PPRTV,PPRTV,Resp,Resp,Resp,0,0,0
 108-05-4,Vinyl acetate,NA,35,200,NA,NA,ATSDR,MDH HRV (IRIS),NA,NA,Resp,Resp,0,0,0
 593-60-2,Vinyl bromide,NA,NA,3,NA,NA,NA,IRIS,NA,NA,NA,Liver,0,0,0
-75-01-4,Vinyl chloride,180000,77,100,1,CAL EPA,ATSDR,IRIS,MDH HRV,"Resp, Neuro , Eyes",Liver,Liver,0,0,0
+75-01-4,Vinyl chloride,1280,77,100,1,ATSDR (2006),ATSDR,IRIS,MDH HRV,"Resp, Neuro , Eyes",Liver,Liver,0,0,0
 1330-20-7,Xylenes,22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp, Neuro , Eyes",Neuro,"Neuro, Resp",0,0,0
 108-38-3,"Xylenes, m-",22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp, Neuro , Eyes",Neuro,"Neuro, Resp",0,0,0
 95-47-6,"Xylenes, o-",22000,400,100,NA,MDH HRV (CALEPA),PPRTV,IRIS,NA,"Resp, Neuro , Eyes",Neuro,"Neuro, Resp",0,0,0
