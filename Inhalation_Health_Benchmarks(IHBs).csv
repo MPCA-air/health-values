@@ -359,12 +359,12 @@ AROMATIC-C9-C16,"Petroleum Hydrocarbons, Aromatic Medium (C9 - C16; EC9-EC21)",N
 00-08-6,"Tetrachlorodibenzofurans, All Isomers",NA,NA,4e-4,2.5e-7,NA,NA,MPCA,MDH RAA,NA,NA,"Liver, Repro, Resp, Blood",1,0,0
 630-20-6,"Tetrachloroethane, 1,1,1,2-",NA,NA,NA,1.4,NA,NA,NA,IRIS,NA,NA,NA,0,0,0
 79-34-5,"Tetrachloroethane, 1,1,2,2-",NA,NA,NA,0.17,NA,NA,NA,CALEPA,NA,NA,NA,0,0,0
-127-18-4,Tetrachloroethylene (Perchloroethylene),20000,41,15,2,MDH HRV (CALEPA),ATSDR,MDH RAA,MDH RAA,"Resp, Neuro , Eyes",Neuro,Neuro,0,0,0
+127-18-4,Tetrachloroethylene (Perchloroethylene),41,41,15,2,ATSDR (2019),ATSDR,MDH RAA,MDH RAA,"Resp, Neuro, Eyes",Neuro,Neuro,0,0,0
 811-97-2,"Tetrafluoroethane, 1,1,1,2-",NA,NA,80000,NA,NA,NA,IRIS,NA,NA,NA,Repro,0,0,0
 109-99-9,Tetrahydrofuran,NA,NA,2000,NA,NA,NA,IRIS,NA,NA,NA,"Liver, Neuro",0,0,0
 62-55-5,Thioacetamide,NA,NA,NA,0.0059,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
 62-56-6,Thiourea,NA,NA,NA,0.48,NA,NA,NA,CALEPA,NA,NA,NA,0,1,1
-108-88-3,Toluene,37000,5000,4000,NA,MDH HRV (CALEPA),PPRTV,MDH ISV,NA,"Resp, Neuro , Eyes",Systemic,"Neuro, Resp",0,0,0
+108-88-3,Toluene,37000,5000,4000,NA,MDH HRV (CALEPA),PPRTV,MDH ISV,NA,"Resp, Neuro, Eyes",Systemic,"Neuro, Resp",0,0,0
 584-84-9,"Toluene-2,4-diisocyanate",2,NA,0.008,0.91,CAL EPA,NA,CAL EPA,CAL EPA,Resp,NA,Resp,0,0,0
 91-08-7,"Toluene-2,6-diisocyanate",2,NA,0.008,0.91,CAL EPA,NA,CAL EPA,CAL EPA,Resp,NA,Resp,0,0,0
 95-80-7,"Toluene diamine, 2,4-",NA,NA,NA,0.0091,NA,NA,NA,CAL EPA,NA,NA,NA,0,0,0
