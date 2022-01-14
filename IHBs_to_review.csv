@@ -1,8 +1,6 @@
 CAS,Pollutant,Benchmark,Current_value_ug_m3,Notes
-"127-18-4","Tetrachloroethylene (Perc)",Acute,20000,"Updated. MDH value was 500X higher than newer ATSDR 2019"
-"75-01-4","Vinyl chloride",Acute,180000,"Updated. CALEPA value was 140X higher than ATSDR 2006"
 "107-02-8",Acrolein,"Chronic non-cancer",0.4,"Current value is 20X higher than IRIS 2003, seems to be difference in UF."
-"50-00-0",Formaldehyde,"Cancer",NA,"2019 MDH nixed its cancer value and said Non-cancer value would be protective of cancer effects. Like Naphthalene. Discuss."
+"50-00-0",Formaldehyde,"Cancer",NA,"2019 MDH dropped cancer value, Non-cancer value assumed to be protective of cancer effects. Similar to Naphthalene."
 "7784-42-1",Arsine,"Cancer",2,"CAL EPA uses same value as arsenic. RASS used to do this as well. Discuss."
 "18540-29-9","Chromium VI","Cancer",8e-04,"CAL EPA developed values for Chromate mixtures, MDH has HRV for only Chrom VI. See below."
 "10294-40-3","Barium Chromate","Cancer",7e-05,"CAL EPA chromate mixtures values ~1/10th of MDH has HRV for Chrom VI."
