@@ -18,6 +18,11 @@ Benchmarks are selected using the following hierarchy:
 4. [CDC ATSDR](https://www.atsdr.cdc.gov/mrls/mrllist.asp)
 5. [EPA PPRTVs](https://www.epa.gov/pprtv/provisional-peer-reviewed-toxicity-values-pprtvs-assessments)
 
+## Import into R
+
+```r
+health_values <- read.csv("https://raw.githubusercontent.com/MPCA-air/health-values/master/Inhalation_Health_Benchmarks(IHBs).csv")
+```
 
 ## Downstream tools
 
